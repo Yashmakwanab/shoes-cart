@@ -1,0 +1,72 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Nike Crater Impact",
+            "price": 6637,
+            "image": "./images/product-11.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Jordan 'Why Not?' Zer0.4 P",
+            "price": 9197,
+            "image": "./images/product-12.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Kyrie Flytrap 3 EP",
+            "price": 5197,
+            "image": "./images/product-13.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Nike Air Max Pre-Day",
+            "price": 9197,
+            "image": "./images/product-14.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Nike Air Max Plus EOI",
+            "price": 12397,
+            "image": "./images/product-15.jpg"
+
+        },
+        {
+            "id": 6,
+            "title": "Zoom Freak 2",
+            "price": 8237,
+            "image": "./images/product-16.jpg"
+
+        },
+        {
+            "id": 7,
+            "title": "Nike Air Zoom SuperRep 2",
+            "price": 8237,
+            "image": "./images/product-17.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Nike Air Max 97 SE",
+            "price": 13277,
+            "image": "./images/product-18.jpg"
+        },
+        {
+            "id": 9,
+            "title": "LeBron 18 'Best 10–18'",
+            "price": 16557,
+            "image": "./images/product-19.jpg"
+        },
+        {
+            "id": 10,
+            "title": "KD Trey 5 VIII EP",
+            "price": 6397,
+            "image": "./images/product-20.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Nike Air Max 96 2",
+            "price": 11597,
+            "image": "./images/product-21.jpg"
+        }
+    ]
+}
